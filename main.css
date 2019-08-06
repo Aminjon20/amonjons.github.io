@@ -1,0 +1,148 @@
+body{
+	margin:0;
+	padding: 0;
+	font-family: 'Playfair Display', serif;
+	font-family: 'Playfair Display', serif;
+	font-family: 'Roboto', sans-serif;
+}
+p{
+	font-size: 14px;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.cont{
+	width: 940px;
+	margin: 0 auto;
+}
+.header{
+	background: url(../TAJAM/img/bg.jpg) no-repeat center/cover;
+	height: 665px;
+	padding-top: 15px;
+}
+.menu{
+	display: flex;
+	justify-content: space-between;
+}
+.nav ul{
+	display: flex;
+}
+.nav li{
+	margin-right: 25px;
+}
+.nav a{
+	font-size: 15px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	
+}
+.nav a:hover{
+	color: #00e0d0; 
+}
+.main__txt{
+	margin-top: 180px;
+
+}
+h1{
+	color: #fff;
+	
+}
+.border{
+	border-bottom: 5px solid #00e0d0;
+	width: 50px;
+	margin: 0 auto;
+}
+.main__txt p{
+	
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+}
+.main__txt h1{
+	text-align: center;
+}
+.btn p{
+
+	text-align: center;
+	color: #00e0d0;
+	border: 2px solid;
+	width:  120px;
+	padding:15px;	
+	margin: 0 auto;
+}
+.btn{
+	margin-top: 50px;
+}
+.content {
+	padding-top: 70px;
+	display: flex;
+	height: 330px;
+
+}
+.cont__txt{
+	margin-left: 100px;
+
+
+}
+.cont__txt h1{
+	justify-content: flex-start;
+	color: #000;
+	text-align: left;
+}
+.btnn p{
+	text-align: center;
+	color: #00e0d0;
+	border: 2px solid;
+	width:  120px;
+	padding:15px;	
+	margin-top: 35px;
+}
+.center{
+	background: url(../TAJAM/img/bgcen.jpg) no-repeat center /cover;
+	height: 540px;
+}
+.play{
+	
+	padding-top:200px;
+	text-align: center;
+
+}
+.kart{
+	padding-top: 70px;
+	height: 770px;
+
+}
+.zagolovok h1{
+	color: #000;
+	text-align: center;
+}
+.zagolovok p{
+	text-align: center;
+}
+.border1{
+	border-bottom: 5px solid #c6c4c9;
+	width: 50px;
+	margin: 0 auto;
+}
+.steps{
+	align-items: center;
+
+	margin-top: 100px;
+	display: flex;
+	text-align: center;
+
+
+}
+.steps h1{
+	color: #000;
+	font-size: 16px;
+
+
+}.steps p{
+	font-size: 16px;
+	
+}
